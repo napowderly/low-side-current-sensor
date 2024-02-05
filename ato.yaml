@@ -1,6 +1,6 @@
 ato-version: ^0.2.0
 builds:
   default:
-    entry: elec/src/low-side-current-sensor.ato:LowSideCurrentSensor
+    entry: low-side-current-sensor.ato:LowSideCurrentSensor
 dependencies:
 - generics

@@ -1,0 +1,13 @@
+component INA181A1IDBVR:
+    # component INA181A1IDBVR
+    footprint = "SOT-23-6_L2.9-W1.6-P0.95-LS2.8-TL"
+    lcsc_id = "C2058943"
+    mpn = "C2058943"
+    # pins
+    signal OUT ~ pin 1
+    signal GND ~ pin 2
+    signal IN_P ~ pin 3
+    signal IN_N ~ pin 4
+    signal REF ~ pin 5
+    signal VS ~ pin 6
+
