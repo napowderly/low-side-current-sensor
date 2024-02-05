@@ -1,0 +1,2 @@
+module LowSideCurrentSensor:
+    signal gnd

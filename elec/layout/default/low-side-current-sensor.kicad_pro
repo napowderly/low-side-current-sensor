@@ -215,7 +215,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "../../../build/default/{{caseconverter.kebabcase(name)}}.net",
+      "netlist": "../../../build/default/low-side-current-sensor.net",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
