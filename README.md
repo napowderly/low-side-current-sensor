@@ -40,9 +40,15 @@ module LowSideCurrentSensing:
 ```
 
 ## Features
-Power Interface: Wide supply voltage range from 2.7V to 26V
-Current-Sense Interface: High-side measurement, low-side measurement capability with a common-mode voltage range from -0.3V to 26V.
-Gain Options: Available in multiple fixed-gain variants (20 V/V to 200 V/V).
+
+### Power Interface: 
+Wide supply voltage range from 2.7V to 26V
+
+### Current-Sense Interface: 
+High-side measurement, low-side measurement capability with a common-mode voltage range from -0.3V to 26V.
+
+### Gain Options: 
+Available in multiple fixed-gain variants (20 V/V to 200 V/V).
 
 ## Contributing
 Contribute to this package using pull requests.
